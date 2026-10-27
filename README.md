@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon.png" width="110" alt="3DS SD Manager icon: a microSD card with a white h on a blue label">
+<img src="3ds-sd-manager/assets/icon.png" width="110" alt="3DS SD Manager icon: a microSD card with a white h on a blue label">
 
 # 3DS SD Manager
 
